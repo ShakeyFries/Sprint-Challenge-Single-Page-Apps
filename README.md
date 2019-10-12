@@ -28,6 +28,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ]  Explain benefit(s) using `client-side routing`?
 
 > Answer:
+- with client-side routing the webapp downloads, processes and displays new data for you.
+- with server-side routing you download an entire new webpage whenever you click on a link,
 
 ## Project Set Up
 
