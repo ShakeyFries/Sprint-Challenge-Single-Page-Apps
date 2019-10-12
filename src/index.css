@@ -37,3 +37,17 @@ main {
 header h1 {
   text-align: center;
 }
+
+.character-card {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.search-form{
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 0 auto;
+
+}

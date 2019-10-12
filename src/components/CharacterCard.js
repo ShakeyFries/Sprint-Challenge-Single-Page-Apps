@@ -27,6 +27,3 @@ function CharacterCard (props) {
 
 
 export default CharacterCard
-// () {
-//   return <span>todo: character</span>;
-// }

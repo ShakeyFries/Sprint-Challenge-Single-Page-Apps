@@ -4,6 +4,8 @@ import Header from "./components/Header.js";
 import CharacterList from "./components/CharacterList";
 import WelcomePage from "./components/WelcomePage";
 import CharacterCard from "./components/CharacterCard";
+import SearchForm from "./components/SearchForm";
+
 
 
 export default function App() {
@@ -15,6 +17,7 @@ export default function App() {
         <Route exact path="/character-list" component={CharacterList} />
         <Route path="/header" component={Header} />
         <Route path="/character-card" component={CharacterCard} />
+        <SearchForm />
       </div>
     </main>
   );
